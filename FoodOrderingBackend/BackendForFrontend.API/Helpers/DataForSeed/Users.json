@@ -1,0 +1,47 @@
+[
+  {
+    "UserName": "restaurantOwner",
+    "UserRolesForSeed": [ "Owner" ],
+    "FirstName": "Random",
+    "LastName": "Owner",
+    "Street": "Rovine",
+    "Email": "owner@buddhapizza.com",
+    "PhoneNumber": "+407 234 23432"
+  },
+  {
+    "UserName": "manager",
+    "UserRolesForSeed": [ "Manager" ],
+    "FirstName": "Random",
+    "LastName": "Manager",
+    "Street": "Pedagogilor",
+    "Email": "manager@buddhapizza.com",
+    "PhoneNumber": "+407 234 23432"
+  },
+  {
+    "UserName": "cook",
+    "UserRolesForSeed": [ "Cook" ],
+    "FirstName": "Random",
+    "LastName": "Cook",
+    "Street": "Nicolae Balcescu",
+    "Email": "kitchen@buddhapizza.com",
+    "PhoneNumber": "+407 234 23432"
+  },
+  {
+    "UserName": "driver",
+    "UserRolesForSeed": [ "Driver" ],
+    "FirstName": "Random",
+    "LastName": "Driver",
+    "Street": "Mihai Viteazu",
+    "Email": "driver@buddhapizza.com",
+    "PhoneNumber": "+407 234 23432"
+  },
+  {
+    "UserName": "gigelMember",
+    "UserRolesForSeed": [ "Member" ],
+    "FirstName": "Gigel",
+    "LastName": "Gigelium",
+    "Street": "Nicolae Iorga",
+    "Email": "gigelgigelium@gmail.com",
+    "PhoneNumber": "+407 234 23432"
+  }
+]

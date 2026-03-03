@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Pizza",
+    "LogoName": "PizzaLogo",
+    "BannerName": "banner_pizzas",
+    "SortingOrderOnWebpage": 1
+  },
+  {
+    "Name": "Beverage",
+    "LogoName": "BeverageLogo",
+    "BannerName": "banner_beverages",
+    "SortingOrderOnWebpage": 3
+  },
+  {
+    "Name": "Dessert",
+    "LogoName": "DessertLogo",
+    "BannerName": "banner_desserts",
+    "SortingOrderOnWebpage": 2
+  },
+  {
+    "Name": "Sauce",
+    "LogoName": "SauceLogo",
+    "BannerName": "banner_sauces",
+    "SortingOrderOnWebpage": 4
+  }
+]

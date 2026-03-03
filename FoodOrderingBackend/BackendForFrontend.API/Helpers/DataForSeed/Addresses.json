@@ -1,0 +1,50 @@
+﻿[
+  {
+    "City": "Sibiu",
+    "County": "Sibiu",
+    "Street": "Nicolae Balcescu",
+    "StreetNumber": 3
+  },
+  {
+    "City": "Sibiu",
+    "County": "Sibiu",
+    "Street": "Pedagogilor",
+    "StreetNumber": 9
+  },
+  {
+    "City": "Sibiu",
+    "County": "Sibiu",
+    "Street": "Rovine",
+    "StreetNumber": 24
+  },
+  {
+    "City": "Sibiu",
+    "County": "Sibiu",
+    "Street": "Nicolae Iorga",
+    "StreetNumber": 49,
+    "Building": "49C",
+    "Floor": 3,
+    "Entrance": "C",
+    "ApartmentNumber": 37
+  },
+  {
+    "City": "Cisnadie",
+    "County": "Sibiu",
+    "Street": "Grigorie Ionescu",
+    "StreetNumber": 90,
+    "Building": "90",
+    "Floor": 4,
+    "Entrance": "C",
+    "ApartmentNumber": 48
+  },
+  {
+    "City": "Sibiu",
+    "County": "Sibiu",
+    "Street": "Mihai Viteazu",
+    "StreetNumber": 90,
+    "Building": "90",
+    "Floor": 4,
+    "Entrance": "C",
+    "ApartmentNumber": 48
+  }
+]

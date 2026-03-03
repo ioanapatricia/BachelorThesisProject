@@ -1,0 +1,77 @@
+version: "3.7"
+services:
+
+    bffapi: 
+        build: ../FoodOrderingBackend/BackendForFrontend.Api
+        environment:
+            - "ConnectionStrings:DefaultConnection=Server=bffdb;Database=BackendForFrontendDb;User Id=sa;Password=Jko3va-D9821jhsvGD"
+            - "PRODUCT_MANAGEMENT_API_BASE_URL=http://pmapi:81/api/"
+            - "ORDERING_API_BASE_URL=http://ordapi:82/api/"
+            - "SITE_MANAGEMENT_API_BASE_URL=http://smapi:83/api/"
+        image: ioanapatricia/bff.api:v1.0
+        container_name: bff.api
+        ports:
+            - "5000:80"
+        depends_on:
+            - bffdb
+            - pmapi
+            - ordapi
+            - pmdb
+            - smapi
+            
+            
+    bffdb:
+        image: "mcr.microsoft.com/mssql/server:2019-latest"
+        container_name: bff.db
+        ports:
+            - "1434:1433"
+        environment:
+            - "SA_PASSWORD=Jko3va-D9821jhsvGD"
+            - "ACCEPT_EULA=Y"
+            
+    pmapi: 
+        build: ../FoodOrderingBackend/ProductManagement.Api
+        environment:
+            - "ConnectionStrings:DefaultConnection=Server=pmdb;Database=ProductManagementDb;User Id=sa;Password=Jko3va-D9821jhsvGD"
+        image: ioanapatricia/pm.api:v1.0
+        container_name: pm.api
+        ports:
+            - "5001:81"
+        depends_on:
+            - pmdb
+        
+    pmdb:
+        image: "mcr.microsoft.com/mssql/server:2019-latest"
+        container_name: pm.db
+        ports:
+            - "1435:1433"
+        environment:
+            - "SA_PASSWORD=Jko3va-D9821jhsvGD"
+            - "ACCEPT_EULA=Y"
+            
+    ordapi: 
+        build: ../FoodOrderingBackend/Ordering.Api
+        image: ioanapatricia/ord.api:v1.0
+        container_name: ord.api
+        ports:
+            - "5002:82"
+            
+    smapi: 
+        build: ../FoodOrderingBackend/SiteManagement.Api
+        image: ioanapatricia/sm.api:v1.0
+        container_name: sm.api
+        ports:
+            - "5003:83"
+
+    admclient: 
+        build: ../food-order-frontend-admin
+        image: ioanapatricia/adm.client:v1.0
+        container_name: adm.client
+        ports:
+            - "8081:3000"
+    ctmclient: 
+        build: ../food-order-frontend
+        image: ioanapatricia/ctm.client:v1.0
+        container_name: ctm.client
+        ports:
+            - "8080:3001"

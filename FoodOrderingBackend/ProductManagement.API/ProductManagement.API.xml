@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:ProductManagement.API.Controllers.ImagesController.CreateImageAsync(ProductManagement.Contracts.Dtos.ImageForCreateDto)">
+            <returns>The newly created image.</returns>
+            <response code="201">All Gucci (if the image is successfully created)</response>
+            <response code="400">If you break ZA LAW.</response>  
+        </member>
+        <member name="M:ProductManagement.API.Controllers.ImagesController.GetImageForDisplay(System.Int32)">
+            <returns>The image you've been searching for all your life.</returns>
+            <response code="200">All Gucci (if the image has been found)</response>
+            <response code="404">If the image was not found.</response> 
+        </member>
+        <member name="M:ProductManagement.API.Controllers.ProductsController.GetProduct(System.Int32)">
+            <returns>The product you're searching for lol.</returns>
+            <response code="200">All Gucci (returns the product if found)</response>
+            <response code="404">If the product is not found</response>  
+        </member>
+        <member name="M:ProductManagement.API.Controllers.ProductsController.GetProducts">
+            <returns>A list of all products.</returns>
+            <response code="200">All Gucci (if any product is found)</response>
+            <response code="404">If the list is empty.</response>  
+        </member>
+        <member name="M:ProductManagement.API.Controllers.ProductsController.Create(ProductManagement.Contracts.Dtos.ProductForCreateOrUpdateDto)">
+            <returns>The newly created product</returns>
+            <response code="201">All Gucci (if the product is successfully created)</response>
+            <response code="400">If you break ZA LAW.</response>  
+        </member>
+        <member name="M:ProductManagement.API.Controllers.ProductsController.Update(System.Int32,ProductManagement.Contracts.Dtos.ProductForCreateOrUpdateDto)">
+            <returns>The updated version of this product</returns>
+            <response code="204">All Gucci (if the product is successfully updated)</response>
+            <response code="400">If you break ZA LAW.</response>  
+            <response code="404">If the product you're trying to update does not exist.</response>  
+        </member>
+        <member name="M:ProductManagement.API.Controllers.ProductsController.Delete(System.Int32)">
+            <response code="204">All Gucci (if the item is successfully deleted)</response>
+            <response code="404">If the object you're trying to delete does not exist.</response>  
+        </member>
+        <member name="T:ProductManagement.API.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ProductManagement.API.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ProductManagement.API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:ProductManagement.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:ProductManagement.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

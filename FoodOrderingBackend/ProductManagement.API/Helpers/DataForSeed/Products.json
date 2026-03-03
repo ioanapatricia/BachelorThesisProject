@@ -1,0 +1,261 @@
+﻿[
+  {
+    "Name": "Avatar",
+    "Description": "Pizza base + tomato sauce, mozzarella, pepperoni, hot peppers, capers, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaAvatar",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Bodhi",
+    "Description": "Pizza base + tomato sauce, mozzarella, tomatoes, pesto sauce, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaBodhi",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Brahma",
+    "Description": "Pizza base + tomato sauce, mozzarella, prosciutto, rucolla, sun-dried tomatoes, capers, parmigiano, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaBrahma",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Buddha",
+    "Description": "Pizza base + tomato sauce, mozzarella, lamb, baked eggplant, tomato salsa, sweet onion, basil",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaBuddha",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Dalai Lama",
+    "Description": "Pizza base + tomato sauce, mozzarella, bacon, tomatoes, mushrooms, olives",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaDalaiLama",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Dharma",
+    "Description": "Pizza base + tomato sauce, mozzarella, beef, pork, pepperoni, sausages, pepper, onion, barbeque sauce, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaDharma",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "India",
+    "Description": "Pizza base + truffle sauce, mozzarella, porcini mushrooms, chanterelles, champignons, sweet onions, green onions",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaIndia",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Karma",
+    "Description": "Pizza base + truffle sauce, mozzarella, roast beef, porcini mushrooms, tomatoes, green onions",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaKarma",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Lotus",
+    "Description": "Pizza base + creamy sauce, mozzarella, goat cheese, root vegetables, pine nuts",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaLotus",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Nirvana",
+    "Description": "Pizza base + tomato sauce, mozzarella, gorgonzola, dry-cured bacon, hot pepper, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaNirvana",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Om",
+    "Description": "Pizza base + tomato sauce, mozzarella, duck fillet (sous vide), nut sauces, leek, cucumber, cilantro",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaOm",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Piramita",
+    "Description": "Pizza base + truffle sauce, mozzarella, duck fillet (sous vide), figs, brie, almonds, pomegranate sauce",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaPiramita",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Samsara",
+    "Description": "Pizza base + parmigiano and cream sauce, mozzarella, gorgonzola, chicken, mushrooms, bell pepper, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaSamsara",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Shanti",
+    "Description": "Pizza base + cream sauce, mozzarella, turkey, orange, almonds, rucolla, cranberries, orange mustard",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaShanti",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Siddharta",
+    "Description": "Pizza base + tomato sauce, mozzarella, salami, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaSiddharta",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Temple",
+    "Description": "Pizza base + tomato sauce, mozzarella, pepperoni, sausages, pepper, olives, pesto sauce, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaTemple",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Yoga",
+    "Description": "Pizza base + cream and parmigiano sauce, mozzarella, gorgonzola, parmigiano, walnut, cranberry",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaYoga",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Zen",
+    "Description": "Pizza base + tomato sauce, mozzarella, chicken, pineapple, bell pepper, orange mustard, cranberry, oregano",
+    "CategoryName": "Pizza",
+    "ImageName": "PizzaZen",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Chocolate Tangerine Cake",
+    "Description": "Pizza base + nutella, tangerines, powdered sugar",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertChocolateOrange",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Berry Crepe",
+    "Description": "Whipped cream, berries,strawberries",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertCrepeBerry",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Strawberry Banana Crepe",
+    "Description": "Whipped cream, bananas ,strawberries, chocolate",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertCrepeStrawberryBanana",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Strawberry Sauce Crepe",
+    "Description": "Whipped cream,strawberries, strawberry sauce",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertCrepeStrawberrySauce",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Pancakes",
+    "Description": "Maple syrup, butter, berries",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertPancakes",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Strawberry Cup",
+    "Description": "Strawberry Mouse, berries, chocolate sprinkles",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertCupStrawberry",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Vanilla Cup",
+    "Description": "Vanilla Mouse, sour cherries, cranberry sauce",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertCupVanilla",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Chocolate Cup",
+    "Description": "Chocolate Mouse, strawberry, cranberry sauce, chocolate sprinkles",
+    "CategoryName": "Dessert",
+    "ImageName": "DessertCupChocolate",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Barbeque",
+    "Description": "secret sauce recipe",
+    "CategoryName": "Sauce",
+    "ImageName": "SauceBBQ",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Garlic",
+    "Description": "secret sauce recipe",
+    "CategoryName": "Sauce",
+    "ImageName": "SauceGarlic",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Spicy Tomato",
+    "Description": "secret sauce recipe",
+    "CategoryName": "Sauce",
+    "ImageName": "SauceTomatoSpicy",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Tomato",
+    "Description": "secret sauce recipe",
+    "CategoryName": "Sauce",
+    "ImageName": "SauceTomato",
+    "WeightTypeName": "Grams"
+  },
+  {
+    "Name": "Cappy",
+    "Description": "Fruit juice and fruit-flavored soft drink",
+    "CategoryName": "Beverage",
+    "ImageName": "BeverageCappy",
+    "WeightTypeName": "Liters"
+  },
+  {
+    "Name": "Coca Cola",
+    "Description": "Carbonated soft drink",
+    "CategoryName": "Beverage",
+    "ImageName": "BeverageCocaCola",
+    "WeightTypeName": "Liters"
+  },
+  {
+    "Name": "Coca Cola Zero",
+    "Description": "Carbonated soft drink. No sugar",
+    "CategoryName": "Beverage",
+    "ImageName": "BeverageCocaColaZero",
+    "WeightTypeName": "Liters"
+  },
+  {
+    "Name": "Coca Cola Cherry",
+    "Description": "Cherry flavored carbonated soft drink",
+    "CategoryName": "Beverage",
+    "ImageName": "BeverageCocaColaCherry",
+    "WeightTypeName": "Liters"
+  },
+  {
+    "Name": "Fanta",
+    "Description": "Fruit-flavored carbonated soft drink",
+    "CategoryName": "Beverage",
+    "ImageName": "BeverageFanta",
+    "WeightTypeName": "Liters"
+  },
+  {
+    "Name": "Sprite",
+    "Description": "Colorless, lemon and lime-flavored soft drink",
+    "CategoryName": "Beverage",
+    "ImageName": "BeverageSprite",
+    "WeightTypeName": "Liters"
+  },
+  {
+    "Name": "Dr Pepper",
+    "Description": "Carbonated soft drink",
+    "CategoryName": "Beverage",
+    "ImageName": "BeverageDrPepper",
+    "WeightTypeName": "Liters"
+  }
+]

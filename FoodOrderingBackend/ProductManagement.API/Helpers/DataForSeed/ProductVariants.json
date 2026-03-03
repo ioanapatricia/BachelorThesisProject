@@ -1,0 +1,549 @@
+[
+  {
+    "Name": "Regular",
+    "Price": 25,
+    "Weight": 350,
+    "BelongsToProduct": "Avatar"
+  },
+  {
+    "Name": "Medium",
+    "Price": 35.50,
+    "Weight": 500,
+    "BelongsToProduct": "Avatar"
+  },
+  {
+    "Name": "Large",
+    "Price": 47,
+    "Weight": 1000,
+    "BelongsToProduct": "Avatar"
+  },
+  {
+    "Name": "Party",
+    "Price": 65,
+    "Weight": 1600,
+    "BelongsToProduct": "Avatar"
+  },
+
+  {
+    "Name": "Regular",
+    "Price": 23,
+    "Weight": 340,
+    "BelongsToProduct": "Bodhi"
+  },
+  {
+    "Name": "Medium",
+    "Price": 33.50,
+    "Weight": 450,
+    "BelongsToProduct": "Bodhi"
+  },
+  {
+    "Name": "Large",
+    "Price": 44,
+    "Weight": 1000,
+    "BelongsToProduct": "Bodhi"
+  },
+  {
+    "Name": "Party",
+    "Price": 63,
+    "Weight": 1450,
+    "BelongsToProduct": "Bodhi"
+  },
+  {
+    "Name": "Regular",
+    "Price": 25,
+    "Weight": 350,
+    "BelongsToProduct": "Brahma"
+  },
+  {
+    "Name": "Medium",
+    "Price": 34,
+    "Weight": 500,
+    "BelongsToProduct": "Brahma"
+  },
+  {
+    "Name": "Large",
+    "Price": 44,
+    "Weight": 1000,
+    "BelongsToProduct": "Brahma"
+  },
+  {
+    "Name": "Party",
+    "Price": 65,
+    "Weight": 1600,
+    "BelongsToProduct": "Brahma"
+  },
+  {
+    "Name": "Regular",
+    "Price": 26,
+    "Weight": 360,
+    "BelongsToProduct": "Buddha"
+  },
+  {
+    "Name": "Medium",
+    "Price": 35.50,
+    "Weight": 470,
+    "BelongsToProduct": "Buddha"
+  },
+  {
+    "Name": "Large",
+    "Price": 47,
+    "Weight": 1050,
+    "BelongsToProduct": "Buddha"
+  },
+  {
+    "Name": "Party",
+    "Price": 68,
+    "Weight": 1600,
+    "BelongsToProduct": "Buddha"
+  },
+  {
+    "Name": "Regular",
+    "Price": 23.50,
+    "Weight": 335,
+    "BelongsToProduct": "Dalai Lama"
+  },
+  {
+    "Name": "Medium",
+    "Price": 35,
+    "Weight": 500,
+    "BelongsToProduct": "Dalai Lama"
+  },
+  {
+    "Name": "Large",
+    "Price": 46,
+    "Weight": 1100,
+    "BelongsToProduct": "Dalai Lama"
+  },
+  {
+    "Name": "Party",
+    "Price": 63,
+    "Weight": 1500,
+    "BelongsToProduct": "Dalai Lama"
+  },
+  {
+    "Name": "Regular",
+    "Price": 23,
+    "Weight": 340,
+    "BelongsToProduct": "Dharma"
+  },
+  {
+    "Name": "Medium",
+    "Price": 33.50,
+    "Weight": 450,
+    "BelongsToProduct": "Dharma"
+  },
+  {
+    "Name": "Large",
+    "Price": 44,
+    "Weight": 1000,
+    "BelongsToProduct": "Dharma"
+  },
+  {
+    "Name": "Party",
+    "Price": 63,
+    "Weight": 1450,
+    "BelongsToProduct": "Dharma"
+  },
+  {
+    "Name": "Regular",
+    "Price": 21,
+    "Weight": 320,
+    "BelongsToProduct": "India"
+  },
+  {
+    "Name": "Medium",
+    "Price": 33.50,
+    "Weight": 450,
+    "BelongsToProduct": "India"
+  },
+  {
+    "Name": "Large",
+    "Price": 45,
+    "Weight": 950,
+    "BelongsToProduct": "India"
+  },
+  {
+    "Name": "Party",
+    "Price": 64,
+    "Weight": 1500,
+    "BelongsToProduct": "India"
+  },
+  {
+    "Name": "Regular",
+    "Price": 27,
+    "Weight": 370,
+    "BelongsToProduct": "Karma"
+  },
+  {
+    "Name": "Medium",
+    "Price": 38,
+    "Weight": 550,
+    "BelongsToProduct": "Karma"
+  },
+  {
+    "Name": "Large",
+    "Price": 49,
+    "Weight": 1250,
+    "BelongsToProduct": "Karma"
+  },
+  {
+    "Name": "Party",
+    "Price": 66,
+    "Weight": 1650,
+    "BelongsToProduct": "Karma"
+  },
+  {
+    "Name": "Regular",
+    "Price": 24,
+    "Weight": 340,
+    "BelongsToProduct": "Lotus"
+  },
+  {
+    "Name": "Medium",
+    "Price": 34,
+    "Weight": 450,
+    "BelongsToProduct": "Lotus"
+  },
+  {
+    "Name": "Large",
+    "Price": 44,
+    "Weight": 1000,
+    "BelongsToProduct": "Lotus"
+  },
+  {
+    "Name": "Party",
+    "Price": 64,
+    "Weight": 1450,
+    "BelongsToProduct": "Lotus"
+  },
+  {
+    "Name": "Regular",
+    "Price": 23.50,
+    "Weight": 360,
+    "BelongsToProduct": "Nirvana"
+  },
+  {
+    "Name": "Medium",
+    "Price": 37,
+    "Weight": 470,
+    "BelongsToProduct": "Nirvana"
+  },
+  {
+    "Name": "Large",
+    "Price": 46,
+    "Weight": 1100,
+    "BelongsToProduct": "Nirvana"
+  },
+  {
+    "Name": "Party",
+    "Price": 65,
+    "Weight": 1550,
+    "BelongsToProduct": "Nirvana"
+  },
+  {
+    "Name": "Regular",
+    "Price": 22,
+    "Weight": 320,
+    "BelongsToProduct": "Om"
+  },
+  {
+    "Name": "Medium",
+    "Price": 32,
+    "Weight": 450,
+    "BelongsToProduct": "Om"
+  },
+  {
+    "Name": "Large",
+    "Price": 45,
+    "Weight": 950,
+    "BelongsToProduct": "Om"
+  },
+  {
+    "Name": "Party",
+    "Price": 62.50,
+    "Weight": 1300,
+    "BelongsToProduct": "Om"
+  },
+  {
+    "Name": "Regular",
+    "Price": 25,
+    "Weight": 350,
+    "BelongsToProduct": "Piramita"
+  },
+  {
+    "Name": "Medium",
+    "Price": 34.50,
+    "Weight": 450,
+    "BelongsToProduct": "Piramita"
+  },
+  {
+    "Name": "Large",
+    "Price": 44.50,
+    "Weight": 1250,
+    "BelongsToProduct": "Piramita"
+  },
+  {
+    "Name": "Party",
+    "Price": 64,
+    "Weight": 1450,
+    "BelongsToProduct": "Piramita"
+  },
+  {
+    "Name": "Regular",
+    "Price": 25,
+    "Weight": 340,
+    "BelongsToProduct": "Samsara"
+  },
+  {
+    "Name": "Medium",
+    "Price": 35,
+    "Weight": 450,
+    "BelongsToProduct": "Samsara"
+  },
+  {
+    "Name": "Large",
+    "Price": 45,
+    "Weight": 1000,
+    "BelongsToProduct": "Samsara"
+  },
+  {
+    "Name": "Party",
+    "Price": 65,
+    "Weight": 1500,
+    "BelongsToProduct": "Samsara"
+  },
+  {
+    "Name": "Regular",
+    "Price": 23,
+    "Weight": 340,
+    "BelongsToProduct": "Shanti"
+  },
+  {
+    "Name": "Medium",
+    "Price": 33.50,
+    "Weight": 450,
+    "BelongsToProduct": "Shanti"
+  },
+  {
+    "Name": "Large",
+    "Price": 44,
+    "Weight": 1000,
+    "BelongsToProduct": "Shanti"
+  },
+  {
+    "Name": "Party",
+    "Price": 63,
+    "Weight": 1450,
+    "BelongsToProduct": "Shanti"
+  },
+  {
+    "Name": "Regular",
+    "Price": 25.50,
+    "Weight": 360,
+    "BelongsToProduct": "Siddharta"
+  },
+  {
+    "Name": "Medium",
+    "Price": 36,
+    "Weight": 500,
+    "BelongsToProduct": "Siddharta"
+  },
+  {
+    "Name": "Large",
+    "Price": 47,
+    "Weight": 1100,
+    "BelongsToProduct": "Siddharta"
+  },
+  {
+    "Name": "Party",
+    "Price": 67,
+    "Weight": 1600,
+    "BelongsToProduct": "Siddharta"
+  },
+  {
+    "Name": "Regular",
+    "Price": 26.50,
+    "Weight": 370,
+    "BelongsToProduct": "Temple"
+  },
+  {
+    "Name": "Medium",
+    "Price": 37,
+    "Weight": 500,
+    "BelongsToProduct": "Temple"
+  },
+  {
+    "Name": "Large",
+    "Price": 48,
+    "Weight": 1350,
+    "BelongsToProduct": "Temple"
+  },
+  {
+    "Name": "Party",
+    "Price": 68,
+    "Weight": 1550,
+    "BelongsToProduct": "Temple"
+  },
+  {
+    "Name": "Regular",
+    "Price": 23,
+    "Weight": 340,
+    "BelongsToProduct": "Yoga"
+  },
+  {
+    "Name": "Medium",
+    "Price": 33.50,
+    "Weight": 450,
+    "BelongsToProduct": "Yoga"
+  },
+  {
+    "Name": "Large",
+    "Price": 44,
+    "Weight": 1100,
+    "BelongsToProduct": "Yoga"
+  },
+  {
+    "Name": "Party",
+    "Price": 65,
+    "Weight": 1550,
+    "BelongsToProduct": "Yoga"
+  },
+  {
+    "Name": "Regular",
+    "Price": 24.50,
+    "Weight": 340,
+    "BelongsToProduct": "Zen"
+  },
+  {
+    "Name": "Medium",
+    "Price": 37,
+    "Weight": 500,
+    "BelongsToProduct": "Zen"
+  },
+  {
+    "Name": "Large",
+    "Price": 44,
+    "Weight": 1000,
+    "BelongsToProduct": "Zen"
+  },
+  {
+    "Name": "Party",
+    "Price": 63,
+    "Weight": 1450,
+    "BelongsToProduct": "Zen"
+  },
+  {
+    "Name": "Default",
+    "Price": 23,
+    "Weight": 350,
+    "BelongsToProduct": "Chocolate Tangerine Cake"
+  },
+  {
+    "Name": "Default",
+    "Price": 9,
+    "Weight": 180,
+    "BelongsToProduct": "Berry Crepe"
+  },
+  {
+    "Name": "Default",
+    "Price": 9,
+    "Weight": 180,
+    "BelongsToProduct": "Strawberry Banana Crepe"
+  },
+  {
+    "Name": "Default",
+    "Price": 9,
+    "Weight": 180,
+    "BelongsToProduct": "Strawberry Sauce Crepe"
+  },
+  {
+    "Name": "Default",
+    "Price": 20,
+    "Weight": 300,
+    "BelongsToProduct": "Pancakes"
+  },
+  {
+    "Name": "Default",
+    "Price": 7.5,
+    "Weight": 190,
+    "BelongsToProduct": "Strawberry Cup"
+  },
+  {
+    "Name": "Default",
+    "Price": 7.5,
+    "Weight": 190,
+    "BelongsToProduct": "Vanilla Cup"
+  },
+  {
+    "Name": "Default",
+    "Price": 7.5,
+    "Weight": 190,
+    "BelongsToProduct": "Chocolate Cup"
+  },
+  {
+    "Name": "Default",
+    "Price": 3,
+    "Weight": 100,
+    "BelongsToProduct": "Barbeque"
+  },
+  {
+    "Name": "Default",
+    "Price": 3.5,
+    "Weight": 100,
+    "BelongsToProduct": "Garlic"
+  },
+  {
+    "Name": "Default",
+    "Price": 3,
+    "Weight": 100,
+    "BelongsToProduct": "Spicy Tomato"
+  },
+  {
+    "Name": "Default",
+    "Price": 3,
+    "Weight": 100,
+    "BelongsToProduct": "Tomato"
+  },
+  {
+    "Name": "Default",
+    "Price": 6,
+    "Weight": 0.33,
+    "BelongsToProduct": "Cappy"
+  },
+  {
+    "Name": "Default",
+    "Price": 5,
+    "Weight": 0.5,
+    "BelongsToProduct": "Coca Cola"
+  },
+  {
+    "Name": "Default",
+    "Price": 5,
+    "Weight": 0.5,
+    "BelongsToProduct": "Coca Cola Zero"
+  },
+  {
+    "Name": "Default",
+    "Price": 5,
+    "Weight": 0.5,
+    "BelongsToProduct": "Coca Cola Cherry"
+  },
+  {
+    "Name": "Default",
+    "Price": 5,
+    "Weight": 0.5,
+    "BelongsToProduct": "Fanta"
+  },
+  {
+    "Name": "Default",
+    "Price": 5,
+    "Weight": 0.5,
+    "BelongsToProduct": "Sprite"
+  },
+  {
+    "Name": "Default",
+    "Price": 5,
+    "Weight": 0.5,
+    "BelongsToProduct": "Dr Pepper"
+  }
+]
